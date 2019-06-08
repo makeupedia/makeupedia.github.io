@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "/Users/jimmysong/Workspace/github/rootsongjc/makeupedia",
+	"sourceRoot": "/Users/jimmysong/Workspace/github/makeupedia/makeupedia",
 	"sources": [
 		"themes/syna/assets/styles/index.scss",
 		"themes/syna/assets/styles/fontawesome/fontawesome.scss",
