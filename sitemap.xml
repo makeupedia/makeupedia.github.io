@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://makeupedia.github.io/wiki/cosmetics/</loc>
+    <lastmod>2019-06-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://makeupedia.github.io/guides/installation/</loc>
     <lastmod>2019-06-07T20:51:43+08:00</lastmod>
   </url>
